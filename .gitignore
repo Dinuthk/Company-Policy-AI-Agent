@@ -19,3 +19,6 @@ documents/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Chroma vector database (generated at runtime)
+chroma_db/
